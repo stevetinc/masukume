@@ -1,0 +1,15 @@
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/2020/08/06/hello-world/feed/index.html,474398429
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/2020/08/06/hello-world/index.html,1139756813
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/2020/08/index.html,1422652114
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/author/steve-masukumegmail-com/index.html,3312661905
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/category/uncategorized/feed/index.html,3795724248
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/category/uncategorized/index.html,3901765317
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/category/uncategorized/page/1/index.html,3901765317
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/comments/feed/index.html,1665960235
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/feed/index.html,196361784
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/index.html,4129118272
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/masukume/2020/08/06/hello-world/index.html,1139756813
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/masukume/sample-page/index.html,868534990
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/page/1/index.html,4129118272
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/sample-page/feed/index.html,4107824578
+C:\xampp\htdocs\masukume/wp-content/uploads/wp-static-html-output-1596718513/sample-page/index.html,868534990
