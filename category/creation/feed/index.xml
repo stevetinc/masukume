@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Creation &#8211; Steve T Inc</title>
+	<atom:link href="https://stevetinc.ga/category/creation/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stevetinc.ga</link>
+	<description>The Universe Of Technology</description>
+	<lastBuildDate>Thu, 06 Aug 2020 20:14:53 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://stevetinc.ga/wp-content/uploads/2020/08/cropped-109589509_165966155141161_1645386515105279993_o-32x32.png</url>
+	<title>Creation &#8211; Steve T Inc</title>
+	<link>https://stevetinc.ga</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>How to increase Virtual Ram on Your windows PC</title>
+		<link>https://stevetinc.ga/how-to-increase-virtual-ram-on-your-windows-pc/</link>
+					<comments>https://stevetinc.ga/how-to-increase-virtual-ram-on-your-windows-pc/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve T Inc]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2020 20:11:45 +0000</pubDate>
+				<category><![CDATA[Creation]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://stevetinc.ga/?p=285</guid>
+
+					<description><![CDATA[<p>Virtual memory is a feature of an operating system that enables a computer to be able to compensate shortages of physical memory by transferring pages of data from random access memory to disk storage.</p>
+<p>The post <a rel="nofollow" href="https://stevetinc.ga/how-to-increase-virtual-ram-on-your-windows-pc/">How to increase Virtual Ram on Your windows PC</a> appeared first on <a rel="nofollow" href="https://stevetinc.ga">Steve T Inc</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img src="https://cdn.pixabay.com/photo/2015/02/05/08/12/stock-624712__340.jpg" alt="Stock, Iphone, Business, Mobile, Phone"/></figure>
+
+
+
+<p>First of all let us define virtual ram    :</p>
+
+
+
+<p>Virtual memory is a feature of an operating system that enables a computer to be able to compensate shortages of physical memory by transferring pages of data from random access memory to disk storage.</p>
+
+
+
+<p>This process is done temporarily and is designed to work as a combination of RAM and space on the hard disk.</p>
+
+
+
+<p>This means that when RAM runs low, virtual memory can move data from it to a space called a paging file. This process allows for RAM to be freed up so that a computer can complete the task.</p>
+
+
+
+<p>Occasionally a user might be shown a message that says the virtual memory is running low, this means that either more RAM needs to be added, or the size of the paging file needs to be increased. click <a href="https://www.cbronline.com/what-is/what-is-virtual-memory-4929986/#:~:text=Virtual%20memory%20is%20a%20feature,space%20on%20the%20hard%20disk.">here</a> to view source</p>
+
+
+
+<p>so we have defined what virtual RAM is lets learn how to increase it in windows.</p>
+
+
+
+<div class="schema-how-to wp-block-yoast-how-to-block"><p class="schema-how-to-description">How to Increase Virtual RAM in windows PC</p> <ol class="schema-how-to-steps"><li class="schema-how-to-step" id="how-to-step-1596743280901"><strong class="schema-how-to-step-name">Go to this PC</strong> <p class="schema-how-to-step-text">Go on the windows search panel and type in &#8220;This PC&#8221; if you dont have the short cut on your Desktop.and click it<img alt="" src="https://stevetinc.ga/wp-content/uploads/2020/08/Untitled.png"/></p> </li><li class="schema-how-to-step" id="how-to-step-1596743459354"><strong class="schema-how-to-step-name">After you have opened   &#8220;This PC&#8221;,right click on your mouse(a box with information will popup) and click &#8220;Properties&#8221;</strong> <p class="schema-how-to-step-text"><img alt="" src="https://stevetinc.ga/wp-content/uploads/2020/08/Untitled1-1.png"/></p> </li><li class="schema-how-to-step" id="how-to-step-1596743613633"><strong class="schema-how-to-step-name">Click on advance settings</strong> <p class="schema-how-to-step-text">When you click on  &#8220;properties&#8221; you will be taken to a page that show you detailed information about your PC(e.g. memory,RAM,Name and more) so click of the advanced system settings option to your upper left<img alt="" src="https://stevetinc.ga/wp-content/uploads/2020/08/Untitled2.png"/></p> </li><li class="schema-how-to-step" id="how-to-step-1596743799991"><strong class="schema-how-to-step-name">Another popup will appears</strong> <p class="schema-how-to-step-text">After the popup appears click on settings in the performance  tab<img alt="" src="https://stevetinc.ga/wp-content/uploads/2020/08/Untitled3.png"/></p> </li><li class="schema-how-to-step" id="how-to-step-1596743919950"><strong class="schema-how-to-step-name">Go to advanced again</strong> <p class="schema-how-to-step-text">After clicking settings another popup will appear so go to the Advanced option. You will see the selected(Adjust the best performance of_Programs_. Just go and click  change<img alt="" src="https://stevetinc.ga/wp-content/uploads/2020/08/Untitled4.png"/></p> </li><li class="schema-how-to-step" id="how-to-step-1596744103899"><strong class="schema-how-to-step-name">Select the selected box</strong> <p class="schema-how-to-step-text">They will be a selected box written &#8220;Automatically manage paging file size for all drives&#8221;<img alt="" src="https://stevetinc.ga/wp-content/uploads/2020/08/Untitled5.png"/></p> </li><li class="schema-how-to-step" id="how-to-step-1596744223193"><strong class="schema-how-to-step-name">Click on your hard drive if not selected</strong> <p class="schema-how-to-step-text">Click on your hard drive then click customize size,then input the amount of size you want to add to your Virtual RAM (do not exceed your existing hard drive size) then click set and then apply<img alt="" src="https://stevetinc.ga/wp-content/uploads/2020/08/Untitled6.png"/></p> </li><li class="schema-how-to-step" id="how-to-step-1596744470631"><strong class="schema-how-to-step-name">Restart Your PC</strong> <p class="schema-how-to-step-text">Restart your pc for changes to take effect and go back to see if it was  successful.Enjoy<img alt="" src="https://stevetinc.ga/wp-content/uploads/2020/08/Untitled8.png"/></p> </li></ol></div>
+<p>The post <a rel="nofollow" href="https://stevetinc.ga/how-to-increase-virtual-ram-on-your-windows-pc/">How to increase Virtual Ram on Your windows PC</a> appeared first on <a rel="nofollow" href="https://stevetinc.ga">Steve T Inc</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stevetinc.ga/how-to-increase-virtual-ram-on-your-windows-pc/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>How to create a wordpress site on 000Webhost (with images)- Steve T Inc</title>
+		<link>https://stevetinc.ga/art-exhibition-going-to-start-this-week/</link>
+					<comments>https://stevetinc.ga/art-exhibition-going-to-start-this-week/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve T Inc]]></dc:creator>
+		<pubDate>Mon, 24 Jul 2017 07:16:07 +0000</pubDate>
+				<category><![CDATA[Creation]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Web-Design]]></category>
+		<guid isPermaLink="false">http://demo.mysterythemes.com/news-portal/?p=117</guid>
+
+					<description><![CDATA[<p>Wordpress is one of the most utilized webpage manufacturers on the planet and a standout amongst other covering a level of 60% of Wordpress destinations on the Internet its everyone's fantasy to make a wordpress website and im gonna teach how to make one with 000webhost</p>
+<p>The post <a rel="nofollow" href="https://stevetinc.ga/art-exhibition-going-to-start-this-week/">How to create a wordpress site on 000Webhost (with images)- Steve T Inc</a> appeared first on <a rel="nofollow" href="https://stevetinc.ga">Steve T Inc</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img src="https://cdn.pixabay.com/photo/2015/01/05/11/02/wordpress-589121_960_720.jpg" alt="Wordpress, Hand, Logo, Background Image, Blogging" /></p>
+<div> </div>
+<div> </div>
+
+
+<p>WordPress is one of the most utilized webpage manufacturers on the planet and a standout amongst other covering a level of 60% of WordPress destinations on the Internet its everyone&#8217;s fantasy to make a wordpress website and im gonna teach how to make one with 000webhost</p>
+
+
+
+<p>The most effective method to make a WordPress site Step-By-Step</p>
+
+
+
+<p>NOTE: Before making a wordpress site you need a space name and hsting plan.(If you are simply making a wordpress site yet without the enough cash you can get a free area from Freenom were you can get a space like .tk .ga .cf .ml for free[not recommended]. <br>Four facilitating yoou can attempt free Hosting Services Like Github,000webhost,Infinity Free and then some </p>
+
+
+
+<p><br><strong>The most effective method to make a wordpress webpage (000webhost instructional exercise) </strong></p>
+
+
+
+<p>1) <strong>Go to 000webhost site by tapping the connection here</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://stevetinc.ga/wp-content/uploads/2020/08/image.png" alt="" class="wp-image-224" srcset="https://stevetinc.ga/wp-content/uploads/2020/08/image.png 1024w, https://stevetinc.ga/wp-content/uploads/2020/08/image-300x225.png 300w, https://stevetinc.ga/wp-content/uploads/2020/08/image-768x576.png 768w, https://stevetinc.ga/wp-content/uploads/2020/08/image-136x102.png 136w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>2) <strong>Click on the signin button on your far right</strong>.</p>
+
+
+
+<p><br>3)<strong>You will be taken from the page like the one on the image bellow</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://stevetinc.ga/wp-content/uploads/2020/08/image-1.png" alt="" class="wp-image-226" srcset="https://stevetinc.ga/wp-content/uploads/2020/08/image-1.png 1024w, https://stevetinc.ga/wp-content/uploads/2020/08/image-1-300x225.png 300w, https://stevetinc.ga/wp-content/uploads/2020/08/image-1-768x576.png 768w, https://stevetinc.ga/wp-content/uploads/2020/08/image-1-136x102.png 136w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<ul><li>If you have an account with 000webhost input your emal and password to log .</li><li>If you dont have an account click on the sign Up button below the google login option</li></ul>
+
+
+
+<p>4)&nbsp;<strong>Select the Create a new site button on your far right</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://stevetinc.ga/wp-content/uploads/2020/08/image-2.png" alt="" class="wp-image-228" srcset="https://stevetinc.ga/wp-content/uploads/2020/08/image-2.png 1024w, https://stevetinc.ga/wp-content/uploads/2020/08/image-2-300x225.png 300w, https://stevetinc.ga/wp-content/uploads/2020/08/image-2-768x576.png 768w, https://stevetinc.ga/wp-content/uploads/2020/08/image-2-136x102.png 136w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>5)&nbsp;<strong>Type in The name you would like to give to your website (note:the same info will be the same with th e you will use when loggin into your wordpress Dashboard so Remember them)</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://stevetinc.ga/wp-content/uploads/2020/08/image-3.png" alt="" class="wp-image-229" srcset="https://stevetinc.ga/wp-content/uploads/2020/08/image-3.png 1024w, https://stevetinc.ga/wp-content/uploads/2020/08/image-3-300x225.png 300w, https://stevetinc.ga/wp-content/uploads/2020/08/image-3-768x576.png 768w, https://stevetinc.ga/wp-content/uploads/2020/08/image-3-136x102.png 136w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>6)<strong>You will see three different Web Bulding tools make sure you select wordpress the one in the middle</strong><img alt="" src="blob:http://localhost/fcfcf5d2-7a62-4476-ab12-99238e30780b"></p>
+
+
+
+<p>7)<strong>You will then see this onption just note your passwords and user names down</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://stevetinc.ga/wp-content/uploads/2020/08/image-4.png" alt="" class="wp-image-231" srcset="https://stevetinc.ga/wp-content/uploads/2020/08/image-4.png 1024w, https://stevetinc.ga/wp-content/uploads/2020/08/image-4-300x225.png 300w, https://stevetinc.ga/wp-content/uploads/2020/08/image-4-768x576.png 768w, https://stevetinc.ga/wp-content/uploads/2020/08/image-4-136x102.png 136w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>8) <strong>Click the install button</strong></p>
+
+
+
+<p>9)<strong>Wait while wordpress is being installed it will take a while . Just be patient while its loading&#8230;&#8230;&#8230;.it might take a minute keep on waiting &#8230;&#8230;&#8230;&#8230;&#8230;&#8230;&#8230;</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://stevetinc.ga/wp-content/uploads/2020/08/image-5.png" alt="" class="wp-image-232" srcset="https://stevetinc.ga/wp-content/uploads/2020/08/image-5.png 1024w, https://stevetinc.ga/wp-content/uploads/2020/08/image-5-300x225.png 300w, https://stevetinc.ga/wp-content/uploads/2020/08/image-5-768x576.png 768w, https://stevetinc.ga/wp-content/uploads/2020/08/image-5-136x102.png 136w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>10)<strong>You will then see this page below just click go to Config page</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://stevetinc.ga/wp-content/uploads/2020/08/image-6.png" alt="" class="wp-image-233" srcset="https://stevetinc.ga/wp-content/uploads/2020/08/image-6.png 1024w, https://stevetinc.ga/wp-content/uploads/2020/08/image-6-300x225.png 300w, https://stevetinc.ga/wp-content/uploads/2020/08/image-6-768x576.png 768w, https://stevetinc.ga/wp-content/uploads/2020/08/image-6-136x102.png 136w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>11)<strong>You will then be taken to the wordpress login page(Just type in the passwords you used when in step 5</strong></p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://stevetinc.ga/wp-content/uploads/2020/08/image-7.png" alt="" class="wp-image-234" srcset="https://stevetinc.ga/wp-content/uploads/2020/08/image-7.png 1024w, https://stevetinc.ga/wp-content/uploads/2020/08/image-7-300x225.png 300w, https://stevetinc.ga/wp-content/uploads/2020/08/image-7-768x576.png 768w, https://stevetinc.ga/wp-content/uploads/2020/08/image-7-136x102.png 136w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>12) <strong>You will then be taken to the wordpress Dashboard there you can See many options to customize your wordpres site Just enjoy</strong></p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.pixabay.com/photo/2014/02/13/07/28/cms-265126__340.jpg" alt="Cms, WordPress"/></figure>
+<p>The post <a rel="nofollow" href="https://stevetinc.ga/art-exhibition-going-to-start-this-week/">How to create a wordpress site on 000Webhost (with images)- Steve T Inc</a> appeared first on <a rel="nofollow" href="https://stevetinc.ga">Steve T Inc</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stevetinc.ga/art-exhibition-going-to-start-this-week/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5 Most Dangerous hackers in The World</title>
+		<link>https://stevetinc.ga/dangerous-hackers/</link>
+					<comments>https://stevetinc.ga/dangerous-hackers/#respond</comments>
+		
+		<dc:creator><![CDATA[Steve T Inc]]></dc:creator>
+		<pubDate>Mon, 24 Jul 2017 07:13:13 +0000</pubDate>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[App-Development]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Creation]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[MAC]]></category>
+		<category><![CDATA[Tech]]></category>
+		<category><![CDATA[Web-Design]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">http://demo.mysterythemes.com/news-portal/?p=110</guid>
+
+					<description><![CDATA[<p>1)Kevin Mitnick  .An original figure in American hacking, Kevin Mitnick got his beginning as a high schooler. In 1981, he was accused of taking PC manuals from Pacific Bell. In 1982, he</p>
+<p>The post <a rel="nofollow" href="https://stevetinc.ga/dangerous-hackers/">5 Most Dangerous hackers in The World</a> appeared first on <a rel="nofollow" href="https://stevetinc.ga">Steve T Inc</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><img src="https://media.istockphoto.com/photos/anonymous-person-in-the-hood-sitting-in-front-of-computer-working-picture-id1170045922?b=1&amp;k=6&amp;m=1170045922&amp;s=170667a&amp;w=0&amp;h=jemW-E0nuGzOAtlnxVePS97cyPqeMN0nSdO3l6gMrkE=" /></p>
+<p>1)Kevin Mitnick  .An original figure in American hacking, Kevin Mitnick got his beginning as a high schooler. In 1981, he was accused of taking PC manuals from Pacific Bell. In 1982, he hacked the North American Defense Command (NORAD), an accomplishment that enlivened the 1983 film War Games. In 1989, he hacked Digital Equipment Corporation&#8217;s (DEC) organize and made duplicates of their product.</p>
+
+
+<p>2)anonymous </p>
+
+
+
+<figure class="wp-block-image"><img src="https://cdn.pixabay.com/photo/2017/09/20/14/56/anonymous-2768825__340.jpg" alt="Anonymous, Hacktivist, Freedom, Face"/></figure>
+
+
+
+<p>The group  started in 2003 on 4chan message sheets in an anonymous gathering. The gathering displays little association and is approximately centered around the idea of social equity. For instance, in 2008 the gathering disagreed with the Church of Scientology and start impairing their sites, in this way contrarily affecting their inquiry rankings in Google and overpowering its fax machines with every single dark picture. In March 2008, a gathering of &#8220;Anons&#8221; walked passed Scientology revolves the world over wearing the now-renowned Guy Fawkes cover.</p>
+
+
+
+<p>3)Adrian Lamo   :</p>
+
+
+
+<p><strong>drián Alfonso Lamo Atwood</strong> &nbsp;(February 20, 1981 – March 14, 2018) was an American threat analyst&nbsp;and hacker. Lamo first gained media attention for breaking into several high-profile computer networks, including those of&nbsp;<em>The New York Times</em>,&nbsp;Yahoo!, and Microsoft culminating in his 2003 arrest.</p>
+
+
+
+<p>Lamo was best known for reporting U.S. soldier&nbsp;Chelsea Manning&nbsp;to Army criminal investigators in 2010  &nbsp;for&nbsp;leaking&nbsp;hundreds of thousands of sensitive U.S. government documents to&nbsp;WikiLeaks.   Lamo died on March 14, 2018 at the age of 37.   <a href="https://en.wikipedia.org/wiki/Adrian_Lamo">source</a></p>
+
+
+
+<p>4)<strong>Jeanson James Ancheta</strong>  :On May 9, 2006,&nbsp;<strong>Jeanson James Ancheta</strong>&nbsp;(born 1985) became the first person to be charged for controlling large numbers of hijacked computers or&nbsp;<a href="http://)/">botnets</a>. <a href="https://en.wikipedia.org/wiki/Jeanson_James_Ancheta">source</a></p>
+
+
+
+<p>5)<strong>Matthew Bevan and Richard Pryce</strong>  :<strong>Mathew Bevan</strong>&nbsp;(born 10 June 1974) is a&nbsp;British&nbsp;hacker&nbsp;from&nbsp;Cardiff,&nbsp;Wales. In 1996 he was arrested for hacking into secure U.S. Government networks under the handle&nbsp;<strong>Kuji</strong>. At the age of 21, he hacked into the files of the&nbsp;<a href=".">Griffiss Air Force Base</a>&nbsp;Research Laboratory in&nbsp;<a href=".">New York</a>. <a href="https://en.wikipedia.org/wiki/Mathew_Bevan">source</a></p>
+
+
+
+<p>5)<strong>Michael Calce</strong>&nbsp;  :(born 1986, also known as&nbsp;<strong>MafiaBoy</strong>) is a security expert and former computer hacker from&nbsp;<a href=".">Île Bizard</a>,&nbsp;<a href=".">Quebec</a>&nbsp;who launched a series of highly publicized&nbsp;<a href=".">denial-of-service attacks</a>&nbsp;in February 2000 against large commercial websites, including&nbsp;<a href=".">Yahoo!</a>,&nbsp;<a href=".">Fifa.com</a>,&nbsp;<a href=".">Amazon.com</a>,&nbsp;<a href=".">Dell, Inc.</a>,&nbsp;<a href="http://;/">E*TRADE</a>,&nbsp;<a href=".">eBay</a>, and&nbsp;<a href=".">CNN</a>.<sup><a href="https://en.wikipedia.org/wiki/MafiaBoy#cite_note-fbi-1">  </a></sup>&nbsp;He also launched a series of failed simultaneous attacks against nine of the thirteen&nbsp;<a href=".">root name servers</a>.</p>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="https://stevetinc.ga/dangerous-hackers/">5 Most Dangerous hackers in The World</a> appeared first on <a rel="nofollow" href="https://stevetinc.ga">Steve T Inc</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://stevetinc.ga/dangerous-hackers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

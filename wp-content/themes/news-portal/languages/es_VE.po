@@ -1,0 +1,1561 @@
+# Translation of Themes - News Portal in Spanish (Venezuela)
+# This file is distributed under the same license as the Themes - News Portal package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-04-01 12:19:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: es_VE\n"
+"Project-Id-Version: Themes - News Portal\n"
+
+#. Description of the theme
+msgid "News Portal is the ultimate magazine theme with creative design and powerful features that allow you to quickly and easily create a style to suit your needs. It is completely built on Customizer which allows you to customize most of the theme settings easily with live previews. It is the fully widgetized theme so as to let users manage the website using the easy to use widgets. News Portal Theme is the best choice to create a Beautiful & Powerful News/magazine/blog websites with ease. Get free support at https://mysterythemes.com/support/forum/themes/free-themes/ and check the demo at https://demo.mysterythemes.com/news-portal/"
+msgstr "News Portal es el tema definitivo tipo revista con un diseño creativo y potentes características que te permiten crear de forma rápida y sencilla un estilo que se adapte a tus necesidades. Está completamente construido con el personalizador, lo que te permite personalizar la mayoría de los ajustes del tema fácilmente con vistas previas en vivo. Es un tema lleno de widgets para que los usuarios puedan gestionar la web usando los sencillos widgets. El tema News Portal es la mejor opción para crear con facilidad unas webs bonitas y potentes de noticias/revistas/blogs. Obtén soporte gratuito en https://mysterythemes.com/support/forum/themes/free-themes/ y revisa la demostración en http://demo.mysterythemes.com/news-portal/"
+
+#. Theme Name of the theme
+#: inc/hooks/np-footer-hooks.php:59 inc/about-theme/news-portal-about.php:464
+#: inc/customizer/np-footer-panel.php:138
+msgid "News Portal"
+msgstr "News Portal"
+
+#: inc/customizer/customizer.php:86
+msgid "WP Tutorials"
+msgstr "Tutoriales WP"
+
+#: inc/about-theme/news-portal-about.php:632
+msgid "I already did"
+msgstr "Ya lo he hecho"
+
+#: inc/about-theme/news-portal-about.php:627
+msgid "Maybe later"
+msgstr "Quizá más tarde"
+
+#: inc/about-theme/news-portal-about.php:622
+msgid "Sure"
+msgstr "Por supuesto"
+
+#: inc/about-theme/news-portal-about.php:611
+msgid "Howdy, %1$s! It seems that you have been using this theme for more than 15 days. We hope you are happy with everything that the theme has to offer. If you can spare a minute, please help us by leaving a 5-star review on WordPress.org.  By spreading the love, we can continue to develop new amazing features in the future, for free!"
+msgstr "¡Hola, %1$s! Parece que has estado usando este tema durante más de 15 días. Esperamos que estés contento con todo lo que el tema tiene para ofrecer. Si tienes un minuto libre, por favor, ayúdanos dejando una valoración de 5 estrellas en WordPress.org. Al difundir tu cariño, podemos continuar desarrollando nuevas e increíbles características en el futuro, ¡gratis!"
+
+#: inc/about-theme/news-portal-about.php:152
+msgid "More Tutorials"
+msgstr "Más tutoriales"
+
+#: inc/about-theme/news-portal-about.php:718
+msgid "If you like <strong>%1$s</strong> please leave us a %2$s rating. A huge thank you from <strong>Mystery Themes</strong> in advance &#128515!"
+msgstr "Si te gusta <strong>%1$s</strong>, por favor, déjanos una valoración %2$s. Por adelantado, ¡un gran agradecimiento de <strong>Mystery Themes</strong> &#128515;!"
+
+#: inc/about-theme/news-portal-about.php:130
+msgid "Version: %1$s"
+msgstr "Versión: %1$s"
+
+#: inc/about-theme/news-portal-about.php:101
+msgid "Dismiss this notice."
+msgstr "Descartar este aviso."
+
+#: inc/about-theme/news-portal-about.php:100
+msgid "Welcome to %s"
+msgstr "Bienvenido a %s"
+
+#: header.php:43
+msgid "Skip to content"
+msgstr "Saltar al contenido"
+
+#: inc/about-theme/news-portal-about.php:104
+msgid "Get started with %1$s"
+msgstr "Primeros pasos con %1$s"
+
+#: inc/widgets/np-ads-banner.php:22
+msgid "NP: Banner Ads"
+msgstr "NP: Banners publicitarios"
+
+#: 404.php:23
+msgid "It looks like nothing was found at this location."
+msgstr "Parece que no hay nada aquí."
+
+#: inc/tgm/np-recommended-plugins.php:63
+msgid "Contact Form by WPForms – Drag & Drop Form Builder for WordPress"
+msgstr "Contact Form by WPForms - Constructor de formularios mediante arrastrar y soltar para WordPress"
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/np-recommended-plugins.php:121
+#: inc/tgm/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/np-recommended-plugins.php:116
+#: inc/tgm/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está desactivado: %1$s."
+msgstr[1] "Los siguientes plugins necesarios están desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/np-recommended-plugins.php:111
+#: inc/tgm/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/np-recommended-plugins.php:106
+#: inc/tgm/class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Este plugin debe actualizarse a su última versión para garantizar la máxima compatibilidad con el tema: %1$s."
+msgstr[1] "Estos plugins deben actualizarse a su última versión para garantizar la máxima compatibilidad con el tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm/np-recommended-plugins.php:101
+#: inc/tgm/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el plugin: %1$s."
+msgstr[1] "Este tema recomienda los plugins: %1$s."
+
+#. translators: %s: plugin name.
+#. translators: 1: plugin name(s).
+#: inc/tgm/np-recommended-plugins.php:96
+#: inc/tgm/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han terminado."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado correctamente."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han terminado."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado correctamente."
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Comienza el proceso de instalación y activación. Este proceso puede tardar un poco en algunos servidores, ten paciencia por favor."
+
+#. translators: 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "Ahora mismo no hay plugins que activar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se había seleccionado ningún plugin que activar. No se ha realizado ninguna acción."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "Ahora mismo no hay plugins que actualizar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "Ahora mismo no hay plugins que instalar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se había seleccionado ningún plugin que actualizar. No se ha realizado ninguna acción."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se había seleccionado ningún plugin que instalar. No se ha realizado ninguna acción."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins que instalar, actualizar o activar."
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocida"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponible <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponibles <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todo <span class=\"count\">(%s)</span>"
+msgstr[1] "Todo <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Actualización necesaria no disponible"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado pero inactivo"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-empaquetado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug deseado y renombrarlo no ha funcionado."
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: inc/tgm/np-recommended-plugins.php:149
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, pídele ayuda al administrador de este sitio."
+
+#: inc/tgm/np-recommended-plugins.php:148
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno más plugins necesarios o recomendados pendientes de instalar, actualizar o activar."
+
+#: inc/tgm/np-recommended-plugins.php:147
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/tgm/np-recommended-plugins.php:146
+#: inc/tgm/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugin instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgm/np-recommended-plugins.php:145
+#: inc/tgm/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgm/np-recommended-plugins.php:144
+#: inc/tgm/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya estaba activo."
+
+#: inc/tgm/np-recommended-plugins.php:143
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugins se han activado correctamente:"
+
+#: inc/tgm/np-recommended-plugins.php:142
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado correctamente."
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al Escritorio"
+
+#: inc/tgm/np-recommended-plugins.php:141
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/tgm/np-recommended-plugins.php:136
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Empezar a activar el plugin"
+msgstr[1] "Empezar a activar los plugins"
+
+#: inc/tgm/np-recommended-plugins.php:131
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Empezar a actualizar el plugin"
+msgstr[1] "Empezar a actualizar los plugins"
+
+#: inc/tgm/np-recommended-plugins.php:126
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Empezar a instalar el plugin"
+msgstr[1] "Empezar a instalar los plugins"
+
+#. translators: %s: plugin name.
+#: inc/tgm/np-recommended-plugins.php:95
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo ha salido mal con la API de plugins."
+
+#. translators: %s: plugin name.
+#: inc/tgm/np-recommended-plugins.php:94
+#: inc/tgm/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm/np-recommended-plugins.php:93
+#: inc/tgm/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando plugin: %s"
+
+#: inc/tgm/np-recommended-plugins.php:92
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/tgm/np-recommended-plugins.php:91
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: inc/about-theme/news-portal-about.php:237
+#: inc/about-theme/news-portal-about.php:240
+msgid "Translate %1$s"
+msgstr "Traducir %1$s"
+
+#: inc/about-theme/news-portal-about.php:558
+msgid "View Pro"
+msgstr "Ver Pro"
+
+#: inc/about-theme/news-portal-about.php:550
+msgid "Bottom Footer Layouts"
+msgstr "Disposición de pie de página en la parte inferior de la plantilla"
+
+#: inc/about-theme/news-portal-about.php:545
+msgid "Animation on Section"
+msgstr "Animación de la sección"
+
+#: inc/about-theme/news-portal-about.php:540
+msgid "Custom 404 Page"
+msgstr "Página 404 personalizable"
+
+#: inc/about-theme/news-portal-about.php:537
+msgid "12"
+msgstr "12"
+
+#: inc/about-theme/news-portal-about.php:536
+msgid "8"
+msgstr "8"
+
+#: inc/about-theme/news-portal-about.php:535
+msgid "No. of Widgets"
+msgstr "Número de widgets"
+
+#: inc/about-theme/news-portal-about.php:530
+msgid "WooCommerce Compatible"
+msgstr "Compatible con WooCommerce"
+
+#: inc/about-theme/news-portal-about.php:525
+msgid "Typography Options"
+msgstr "Opciones de tipografía"
+
+#: inc/about-theme/news-portal-about.php:522
+msgid "600+"
+msgstr "600+"
+
+#: inc/about-theme/news-portal-about.php:520
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+#: inc/about-theme/news-portal-about.php:515
+msgid "Fallback Image"
+msgstr "Imagen alternativa"
+
+#: inc/about-theme/news-portal-about.php:510
+msgid "Image Hover Features"
+msgstr "Características al pasar sobre las imágenes"
+
+#: inc/about-theme/news-portal-about.php:505
+msgid "Breadcrumbs"
+msgstr "Migas de pan"
+
+#: inc/about-theme/news-portal-about.php:552
+msgid "2"
+msgstr "2"
+
+#: inc/about-theme/news-portal-about.php:500
+msgid "Post Review"
+msgstr "Reseña de entrada"
+
+#: inc/about-theme/news-portal-about.php:495
+msgid "Single Page Layouts"
+msgstr "Diseño de página individual"
+
+#: inc/about-theme/news-portal-about.php:492
+#: inc/about-theme/news-portal-about.php:497
+msgid "4"
+msgstr "4"
+
+#: inc/about-theme/news-portal-about.php:490
+msgid "Archive Pages Layouts"
+msgstr "Diseño de páginas de archivo"
+
+#: inc/about-theme/news-portal-about.php:487
+msgid "3"
+msgstr "3"
+
+#: inc/about-theme/news-portal-about.php:486
+#: inc/about-theme/news-portal-about.php:491
+#: inc/about-theme/news-portal-about.php:496
+#: inc/about-theme/news-portal-about.php:551
+msgid "1"
+msgstr "1"
+
+#: inc/about-theme/news-portal-about.php:485
+msgid "Header Layouts"
+msgstr "Disposición de la cabecera"
+
+#: inc/about-theme/news-portal-about.php:480
+msgid "Pre Loaders"
+msgstr "Precargadores"
+
+#: inc/about-theme/news-portal-about.php:475
+msgid "Import Demo Data"
+msgstr "Importar datos de demostración"
+
+#: inc/about-theme/news-portal-about.php:472
+msgid "$55"
+msgstr "55 $"
+
+#: inc/about-theme/news-portal-about.php:471
+msgid "Free"
+msgstr "Gratis"
+
+#: inc/about-theme/news-portal-about.php:470
+msgid "Price"
+msgstr "Precio"
+
+#: inc/about-theme/news-portal-about.php:463
+msgid "Features"
+msgstr "Características"
+
+#: inc/about-theme/news-portal-about.php:406
+msgid "View changelog below:"
+msgstr "Ver registro de cambios abajo:"
+
+#: inc/about-theme/news-portal-about.php:345
+msgid "Live Preview"
+msgstr "Vista previa en vivo"
+
+#: inc/about-theme/news-portal-about.php:342
+msgid "Install Now"
+msgstr "Instalar"
+
+#: inc/about-theme/news-portal-about.php:333
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/about-theme/news-portal-about.php:294
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: inc/about-theme/news-portal-about.php:252
+msgid "Go to Dashboard"
+msgstr "Ir al Escritorio"
+
+#: inc/about-theme/news-portal-about.php:252
+msgid "Go to Dashboard &rarr; Home"
+msgstr "Ve a Escritorio &rarr; Inicio"
+
+#: inc/about-theme/news-portal-about.php:249
+msgid "Return to Dashboard &rarr; Updates"
+msgstr "Volver a Escritorio &rarr; Actualizaciones"
+
+#: inc/about-theme/news-portal-about.php:249
+msgid "Return to Updates"
+msgstr "Volver a Actualizaciones"
+
+#: inc/about-theme/news-portal-about.php:238
+msgid "Click below to translate this theme into your own language."
+msgstr "Haz clic debajo para traducir este tema a tu idioma."
+
+#: inc/about-theme/news-portal-about.php:233
+msgid "Customization"
+msgstr "Personalización"
+
+#: inc/about-theme/news-portal-about.php:232
+msgid "Please send message with your requirement."
+msgstr "Envía un mensaje con tus requisitos."
+
+#: inc/about-theme/news-portal-about.php:231
+msgid "Have you need customization?"
+msgstr "¿Necesitas personalización?"
+
+#: inc/about-theme/news-portal-about.php:226
+#: inc/about-theme/news-portal-about.php:458
+msgid "Upgrade to PRO version for more exciting features."
+msgstr "Actualiza a la versión PRO para obtener más características interesantes."
+
+#: inc/about-theme/news-portal-about.php:225
+msgid "Need more features?"
+msgstr "¿Necesitas más características?"
+
+#: inc/about-theme/news-portal-about.php:221
+msgid "Support"
+msgstr "Soporte"
+
+#: inc/about-theme/news-portal-about.php:220
+msgid "Please put it in our dedicated support forum."
+msgstr "Ponlo en nuestro foro de soporte, por favor."
+
+#: inc/about-theme/news-portal-about.php:219
+#: inc/about-theme/news-portal-about.php:637
+msgid "Got theme support question?"
+msgstr "¿Tienes alguna pregunta de soporte sobre el tema?"
+
+#: inc/about-theme/news-portal-about.php:214
+msgid "Please view our documentation page to setup the theme."
+msgstr "Por favor, visita nuestra página de documentación para configurar el tema."
+
+#: inc/about-theme/news-portal-about.php:209
+#: inc/about-theme/news-portal-about.php:296
+msgid "Customize"
+msgstr "Personalizar"
+
+#: inc/about-theme/news-portal-about.php:208
+msgid "All Theme Options are available via Customize screen."
+msgstr "Todas las opciones del tema están disponibles en la pantalla «Personalizar»."
+
+#: inc/about-theme/news-portal-about.php:207
+msgid "Theme Customizer"
+msgstr "Personalizador del tema"
+
+#: inc/about-theme/news-portal-about.php:169
+msgid "Changelog"
+msgstr "Registro de cambios"
+
+#: inc/about-theme/news-portal-about.php:165
+msgid "More Themes"
+msgstr "Más temas"
+
+#: inc/about-theme/news-portal-about.php:161
+msgid "Free Vs Pro"
+msgstr "Gratis vs Pro"
+
+#: inc/about-theme/news-portal-about.php:150
+msgid "Rate this theme"
+msgstr "Valora este tema"
+
+#: inc/about-theme/news-portal-about.php:148
+#: inc/about-theme/news-portal-about.php:227
+msgid "View PRO version"
+msgstr "Ver la versión Pro"
+
+#: inc/about-theme/news-portal-about.php:146
+msgid "View Demo"
+msgstr "Ver demo"
+
+#: inc/about-theme/news-portal-about.php:144
+msgid "Theme Info"
+msgstr "Información del tema"
+
+#: inc/about-theme/news-portal-about.php:102
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$s welcome page %3$s."
+msgstr "¡Bienvenido/a! ¡Gracias por elegir %1$s! Para aprovechar al máximo todo lo que nuestro tema puede ofrecer, asegúrate de visitar nuestra %2$spágina de bienvenida%3$s."
+
+#: inc/about-theme/news-portal-about.php:83
+msgid "Cheat in &#8217; huh?"
+msgstr "¿Haciendo trampas?"
+
+#: inc/about-theme/news-portal-about.php:79
+msgid "Action failed. Please refresh the page and retry."
+msgstr "La acción ha fallado. Por favor, recarga la página e inténtalo de nuevo."
+
+#: inc/about-theme/news-portal-about.php:39
+msgid "About"
+msgstr "Acerca de"
+
+#: inc/customizer/customizer.php:103
+msgid "Please do rate our theme if you liked it %s"
+msgstr "Por favor, valora nuestro tema si te gustó %s"
+
+#: inc/customizer/customizer.php:86
+msgid "Upgrade to Pro"
+msgstr "Mejorar a Pro"
+
+#: inc/customizer/customizer.php:86
+msgid "Like Us in Facebook"
+msgstr "Síguenos en Facebook"
+
+#: inc/customizer/customizer.php:86
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: inc/customizer/customizer.php:86
+msgid "Live Demo"
+msgstr "Demostración en vivo"
+
+#: inc/about-theme/news-portal-about.php:213
+#: inc/about-theme/news-portal-about.php:215 inc/customizer/customizer.php:86
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/customizer/customizer.php:69
+msgid "Important Theme Links"
+msgstr "Enlaces importantes del tema"
+
+#: inc/metaboxes/np-post-metabox.php:16
+msgid "Post Meta Options"
+msgstr "Opciones de meta de entrada"
+
+#: inc/metaboxes/np-post-metabox.php:89 inc/metaboxes/np-page-metabox.php:89
+msgid "Select sidebar from available options which replaced sidebar layout from customizer settings."
+msgstr "Selecciona una barra lateral entre las opciones disponibles que reemplace el diseño de la barra lateral de los ajustes del personalizador."
+
+#: inc/metaboxes/np-post-metabox.php:88 inc/metaboxes/np-page-metabox.php:88
+msgid "Available Sidebars"
+msgstr "Barras laterales disponibles"
+
+#: inc/metaboxes/np-post-metabox.php:82 inc/metaboxes/np-page-metabox.php:82
+msgid "In this section we have lots of features which make your post unique and completely different."
+msgstr "En esta sección tenemos un montón de características que harán que tu entrada sea única y completamente diferente."
+
+#: inc/metaboxes/np-post-metabox.php:80 inc/metaboxes/np-page-metabox.php:80
+msgid "About Metabox Options"
+msgstr "Acerca de las opciones de Metabox"
+
+#: inc/metaboxes/np-post-metabox.php:73 inc/metaboxes/np-page-metabox.php:73
+msgid "Sidebars"
+msgstr "Barras laterales"
+
+#: inc/metaboxes/np-post-metabox.php:72 inc/metaboxes/np-page-metabox.php:72
+msgid "Information"
+msgstr "Información"
+
+#: inc/metaboxes/np-post-metabox.php:53 inc/metaboxes/np-page-metabox.php:53
+msgid "No sidebar Content Centered"
+msgstr "No hay contenido de la barra lateral centrado"
+
+#: inc/metaboxes/np-post-metabox.php:47 inc/metaboxes/np-page-metabox.php:47
+msgid "No sidebar Full width"
+msgstr "No hay barra lateral con anchura completa"
+
+#: inc/metaboxes/np-post-metabox.php:41 inc/metaboxes/np-page-metabox.php:41
+msgid "Right sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/metaboxes/np-post-metabox.php:35 inc/metaboxes/np-page-metabox.php:35
+msgid "Left sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/metaboxes/np-post-metabox.php:29 inc/metaboxes/np-page-metabox.php:29
+msgid "Default Sidebar"
+msgstr "Barra lateral predeterminada"
+
+#: inc/metaboxes/np-page-metabox.php:16
+msgid "Page Meta Options"
+msgstr "Opciones de meta de página"
+
+#: inc/customizer/customizer.php:53
+msgid "Buy Pro"
+msgstr "Compra la versión Pro"
+
+#: inc/about-theme/news-portal-about.php:465 inc/customizer/customizer.php:52
+msgid "News Portal Pro"
+msgstr "News Portal Pro"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Página de inicio"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-single.php:35
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Seguir leyendo<span class=\"screen-reader-text\"> «%s»</span>"
+
+#: template-parts/content-page.php:24 template-parts/content-single.php:46
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: template-parts/content-none.php:46
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Parece que no encontramos lo que estás buscando. Puede que una búsqueda te ayude."
+
+#: template-parts/content-none.php:40
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Lo siento, pero nada coincide con tus términos de búsqueda. Por favor, inténtalo de nuevo con algunas palabras clave diferentes."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:27
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "¿Listo para publicar tu primera entrada? <a href=\"%1$s\">Empieza aquí</a>."
+
+#: template-parts/content-none.php:16
+msgid "Nothing Found"
+msgstr "No se ha encontrado nada"
+
+#. translators: %s: search query.
+#: search.php:23
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda: %s"
+
+#: inc/widgets/np-widget-functions.php:131
+msgid "Added widgets are display at Footer Widget Area."
+msgstr "Los widgets añadidos se muestran en el área de widget de pie de página."
+
+#: inc/widgets/np-widget-functions.php:129
+msgid "Footer %d"
+msgstr "Pie de página %d"
+
+#: inc/widgets/np-widget-functions.php:114
+msgid "Home Bottom Section"
+msgstr "Sección inferior de la página de inicio"
+
+#: inc/widgets/np-widget-functions.php:99
+msgid "Home Middle Aside"
+msgstr "Sección del medio de la página de inicio"
+
+#: inc/widgets/np-widget-functions.php:84
+msgid "Home Middle Section"
+msgstr "Aparte del medio de la página de inicio"
+
+#: inc/widgets/np-widget-functions.php:69
+msgid "Home Top Section"
+msgstr "Sección superior de la página de inicio"
+
+#: inc/widgets/np-widget-functions.php:56
+msgid "Add banner widgets here."
+msgstr "Añadir widgets de banner aquí."
+
+#: inc/widgets/np-widget-functions.php:54
+msgid "Header Ads"
+msgstr "Anuncios de la cabecera"
+
+#: inc/widgets/np-widget-functions.php:26
+#: inc/widgets/np-widget-functions.php:41
+#: inc/widgets/np-widget-functions.php:71
+#: inc/widgets/np-widget-functions.php:86
+#: inc/widgets/np-widget-functions.php:101
+#: inc/widgets/np-widget-functions.php:116
+msgid "Add widgets here."
+msgstr "Añade widgets aquí."
+
+#: inc/widgets/np-widget-functions.php:24
+msgid "Sidebar"
+msgstr "Barra lateral"
+
+#: inc/widgets/np-widget-fields.php:199
+msgid "Select Image"
+msgstr "Seleccionar imagen"
+
+#: inc/widgets/np-widget-fields.php:198
+msgid "Remove"
+msgstr "Eliminar"
+
+#: inc/widgets/np-widget-fields.php:191
+msgid "No image selected"
+msgstr "No se ha seleccionado ninguna imagen"
+
+#: inc/widgets/np-social-media.php:22
+msgid "NP: Social Media"
+msgstr "NP: Redes sociales"
+
+#: inc/widgets/np-social-media.php:20
+msgid "A widget shows the social media icons."
+msgstr "Un widget que muestra iconos de medios sociales."
+
+#: inc/widgets/np-recent-posts.php:41
+msgid "No. of Posts"
+msgstr "Número de entradas"
+
+#: inc/widgets/np-recent-posts.php:35 inc/widgets/np-social-media.php:35
+msgid "Widget title"
+msgstr "Título del widget"
+
+#: inc/widgets/np-recent-posts.php:22
+msgid "NP: Recent Posts"
+msgstr "NP: Entradas recientes"
+
+#: inc/widgets/np-recent-posts.php:20
+msgid "A widget shows recent posts with thumbnail."
+msgstr "Un widget muestra las entradas recientes con miniaturas."
+
+#: inc/widgets/np-featured-slider.php:43
+msgid "Featured Post Categories"
+msgstr "Categorías de entradas destacadas"
+
+#: inc/widgets/np-featured-slider.php:36
+msgid "Slider Categories"
+msgstr "Categoría de carrusel"
+
+#: inc/widgets/np-featured-slider.php:22
+msgid "NP: Featured Slider"
+msgstr "NP: Carrusel de destacados"
+
+#: inc/widgets/np-featured-slider.php:20
+msgid "Displays posts from selected categories in the slider with the featured section."
+msgstr "Muestra las entradas de las categorías seleccionadas en el carrusel con la sección destacada."
+
+#: inc/widgets/np-featured-posts.php:22
+msgid "NP: Featured Posts"
+msgstr "NP: Entradas destacadas"
+
+#: inc/widgets/np-featured-posts.php:20
+msgid "Displays featured posts from selected categories in different layouts."
+msgstr "Muestra entradas destacadas de las categorías seleccionadas en diferentes diseños."
+
+#: inc/widgets/np-default-tabbed.php:117
+msgid "&nbsp;commented on"
+msgstr "&nbsp;ha comentado en"
+
+#: inc/widgets/np-default-tabbed.php:43 inc/widgets/np-default-tabbed.php:65
+msgid "Comments"
+msgstr "Comentarios"
+
+#: inc/widgets/np-default-tabbed.php:42
+msgid "Comments Tab title"
+msgstr "Título de la pestaña de comentarios"
+
+#: inc/widgets/np-default-tabbed.php:36 inc/widgets/np-default-tabbed.php:64
+msgid "Latest"
+msgstr "Recientes"
+
+#: inc/widgets/np-default-tabbed.php:35
+msgid "Latest Tab title"
+msgstr "Título de la última pestaña"
+
+#: inc/widgets/np-default-tabbed.php:22
+msgid "NP: Default Tabbed"
+msgstr "NB: Pestañas predeterminadas"
+
+#: inc/widgets/np-default-tabbed.php:20
+msgid "A widget shows recent posts and comment in tabbed layout."
+msgstr "Un widget que muestra las últimas entradas y comentarios en un diseño con pestañas."
+
+#: inc/widgets/np-carousel.php:44 inc/widgets/np-featured-posts.php:44
+msgid "Block Categories"
+msgstr "Categorías de bloque"
+
+#: inc/widgets/np-carousel.php:22
+msgid "NP: Carousel"
+msgstr "NP: Carrusel"
+
+#: inc/widgets/np-carousel.php:20
+msgid "Displays posts from selected categories in carousel layouts."
+msgstr "Muestra las entradas de las categorías seleccionadas en diseños de carrusel."
+
+#: inc/widgets/np-carousel.php:51 inc/widgets/np-block-posts.php:52
+msgid "Block Layouts"
+msgstr "Diseños de bloque"
+
+#: inc/widgets/np-block-posts.php:44
+msgid "Block Category"
+msgstr "Categoría de bloque"
+
+#: inc/widgets/np-carousel.php:38 inc/widgets/np-block-posts.php:38
+#: inc/widgets/np-featured-posts.php:38
+msgid "Enter your block title. (Optional - Leave blank to hide the title.)"
+msgstr "Introduce el título del bloque. (Opcional - Dejar en blanco para ocultar el título.)"
+
+#: inc/widgets/np-carousel.php:37 inc/widgets/np-block-posts.php:37
+#: inc/widgets/np-featured-posts.php:37
+msgid "Block title"
+msgstr "Título del bloque"
+
+#: inc/widgets/np-block-posts.php:22
+msgid "NP: Block Posts"
+msgstr "NP: Bloque de entradas"
+
+#: inc/widgets/np-block-posts.php:20
+msgid "Displays block posts from selected category in different layouts."
+msgstr "Muestra bloques de mensajes de la categoría seleccionada en diferentes presentaciones."
+
+#: inc/widgets/np-ads-banner.php:59
+msgid "Rel attribute for link"
+msgstr "Atributo rel del enlace"
+
+#: inc/widgets/np-ads-banner.php:53
+msgid "Open in new tab"
+msgstr "Abrir en una nueva pestaña"
+
+#: inc/widgets/np-ads-banner.php:47
+msgid "Banner Link"
+msgstr "Enlace del banner"
+
+#: inc/widgets/np-ads-banner.php:41
+msgid "Select banner image"
+msgstr "Selecciona la imagen del banner"
+
+#: inc/widgets/np-ads-banner.php:35
+msgid "Banner title"
+msgstr "Título del banner"
+
+#: inc/widgets/np-ads-banner.php:20
+msgid "You can place a banner as an advertisement with links."
+msgstr "Puedes colocar un banner como un anuncio con enlaces."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:37 inc/template-tags.php:97
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Editar <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:89
+msgid "Tagged %1$s"
+msgstr "Etiquetado %1$s"
+
+#. translators: %s: post title
+#: inc/template-tags.php:61
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Deja un comentario<span class=\"screen-reader-text\"> en %s</span>"
+
+#: inc/template-functions.php:284
+msgid "Select Category"
+msgstr "Seleccionar categoría"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Titillium Web, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/template-functions.php:149
+msgctxt "Titillium Web font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: inc/template-functions.php:141
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Roboto Condensed, translate this to 'off'. Do not translate into your own
+#. language.
+#: inc/template-functions.php:133
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: 1: Theme name, 2: Theme author.
+#: inc/hooks/np-footer-hooks.php:67
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#: inc/customizer/np-header-panel.php:288
+msgid "Ticker Caption"
+msgstr "Leyenda de teletipo"
+
+#: inc/hooks/np-header-hooks.php:270 inc/customizer/np-header-panel.php:279
+msgid "Breaking News"
+msgstr "Noticias de última hora"
+
+#: inc/customizer/np-header-panel.php:260
+msgid "Show/Hide option for news ticker section."
+msgstr "Mostrar/Ocultar opciones de la sección de teletipo de noticias."
+
+#: inc/customizer/np-header-panel.php:259
+msgid "Ticker Option"
+msgstr "Opciones de teletipo"
+
+#: inc/customizer/np-header-panel.php:236
+msgid "Ticker Section"
+msgstr "Sección de teletipo"
+
+#: inc/customizer/np-header-panel.php:218
+msgid "Show/Hide option for search icon at primary menu."
+msgstr "Mostrar/ocultar la opción del icono de búsqueda en el menú principal."
+
+#: inc/customizer/np-header-panel.php:217
+msgid "Search Icon"
+msgstr "Icono de búsqueda"
+
+#: inc/customizer/np-header-panel.php:189
+msgid "Show/Hide option for home icon at primary menu."
+msgstr "Mostrar/ocultar la opción del icono de inicio en el menú principal."
+
+#: inc/customizer/np-header-panel.php:188
+msgid "Home Icon"
+msgstr "Icono de inicio"
+
+#: inc/customizer/np-header-panel.php:160
+msgid "Enable/Disable option for sticky menu."
+msgstr "Activar/desactivar la opción del menú fijo."
+
+#: inc/customizer/np-header-panel.php:159
+msgid "Sticky Menu"
+msgstr "Menú fijo"
+
+#: inc/customizer/np-header-panel.php:136
+msgid "Header Option"
+msgstr "Opción de cabecera"
+
+#: inc/customizer/np-header-panel.php:119
+msgid "Show/Hide option for social media icons at top header section."
+msgstr "Mostrar/ocultar la opción de los iconos de redes sociales en la sección de la cabecera superior."
+
+#: inc/customizer/np-header-panel.php:90
+msgid "Show/Hide option for current date at top header section."
+msgstr "Mostrar/ocultar la opción de la fecha actual en la sección de la cabecera superior."
+
+#: inc/customizer/np-header-panel.php:89
+msgid "Current Date"
+msgstr "Fecha actual"
+
+#: inc/customizer/np-header-panel.php:61
+msgid "Show/Hide option for top header section."
+msgstr "Mostrar/ocultar la opción de la sección de la cabecera superior."
+
+#: inc/customizer/np-header-panel.php:37 inc/customizer/np-header-panel.php:60
+msgid "Top Header Section"
+msgstr "Sección de cabecera superior"
+
+#: inc/customizer/np-header-panel.php:25
+msgid "Header Settings"
+msgstr "Ajustes de la cabecera"
+
+#: inc/customizer/np-general-panel.php:140
+msgid "Display Site Title and Tagline"
+msgstr "Mostrar título del sitio y lema"
+
+#: inc/customizer/np-general-panel.php:119
+msgid "FullWidth Layout"
+msgstr "Diseño de ancho completo"
+
+#: inc/customizer/np-general-panel.php:116
+msgid "Site Layout"
+msgstr "Disposición del sitio"
+
+#: inc/customizer/np-general-panel.php:98
+msgid "Choose a site to display your website more effectively."
+msgstr "Elige un sitio para mostrar tu web de forma más eficaz."
+
+#: inc/customizer/np-general-panel.php:97
+msgid "Website Layout"
+msgstr "Disposición del sitio"
+
+#: inc/customizer/np-general-panel.php:81
+msgid "Header Text Color"
+msgstr "Color del texto de la cabecera"
+
+#: inc/customizer/np-general-panel.php:55
+msgid "Theme Color"
+msgstr "Color del tema"
+
+#: inc/customizer/np-general-panel.php:34
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: inc/customizer/np-footer-panel.php:147
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: inc/customizer/np-footer-panel.php:124
+msgid "Bottom Section"
+msgstr "Sección inferior"
+
+#: inc/customizer/np-footer-panel.php:106
+msgid "Column One"
+msgstr "Columna uno"
+
+#: inc/customizer/np-footer-panel.php:102
+msgid "Columns Two"
+msgstr "Columna dos"
+
+#: inc/customizer/np-footer-panel.php:98
+msgid "Columns Three"
+msgstr "Columna tres"
+
+#: inc/customizer/np-footer-panel.php:94
+msgid "Columns Four"
+msgstr "Columna cuatro"
+
+#: inc/customizer/np-footer-panel.php:89
+msgid "Footer Widget Layout"
+msgstr "Diseño de widget de pie de página"
+
+#: inc/customizer/np-footer-panel.php:62
+msgid "Show/Hide option for footer widget area section."
+msgstr "Mostrar/ocultar la opción de la sección del área de widgets del pie de página."
+
+#: inc/customizer/np-footer-panel.php:61
+msgid "Footer Widget Section"
+msgstr "Sección de widgets del pie de página"
+
+#: inc/customizer/np-footer-panel.php:38
+msgid "Widget Area"
+msgstr "Área de widgets"
+
+#: inc/customizer/np-footer-panel.php:25
+msgid "Footer Settings"
+msgstr "Ajustes del pie de página"
+
+#: inc/customizer/np-design-panel.php:314
+msgid "Related Post Section Title"
+msgstr "Título de la sección de entradas relacionadas"
+
+#: inc/hooks/np-custom-hooks.php:43 inc/customizer/np-design-panel.php:305
+msgid "Related Posts"
+msgstr "Entradas relacionadas"
+
+#: inc/customizer/np-design-panel.php:286
+msgid "Show/Hide option for related posts section at single post page."
+msgstr "Mostrar/ocultar la opción de la sección de entradas relacionadas en la página de entrada individual."
+
+#: inc/customizer/np-design-panel.php:285
+msgid "Related Post Option"
+msgstr "Opción de entradas relacionadas"
+
+#: inc/customizer/np-design-panel.php:242
+msgid "Post Sidebars"
+msgstr "Barras laterales de publicación"
+
+#: inc/customizer/np-design-panel.php:220
+msgid "Post Settings"
+msgstr "Ajustes de publicación"
+
+#: inc/customizer/np-design-panel.php:185
+msgid "Page Sidebars"
+msgstr "Barras laterales de página"
+
+#: inc/customizer/np-design-panel.php:163
+msgid "Page Settings"
+msgstr "Ajustes de página"
+
+#: inc/customizer/np-design-panel.php:141
+msgid "Enter read more button text for archive page."
+msgstr "Añade el texto del botón leer más para la página de archivo."
+
+#: inc/customizer/np-design-panel.php:140
+msgid "Read More Text"
+msgstr "Texto para «Leer más»"
+
+#: inc/template-functions.php:507 inc/customizer/np-design-panel.php:131
+msgid "Continue Reading"
+msgstr "Seguir leyendo"
+
+#: inc/customizer/np-design-panel.php:114
+msgid "Grid"
+msgstr "Cuadrícula"
+
+#: inc/customizer/np-design-panel.php:110
+msgid "Classic"
+msgstr "Clásico"
+
+#: inc/customizer/np-design-panel.php:106 inc/customizer/np-footer-panel.php:90
+msgid "Choose layout from available layouts"
+msgstr "Elige un diseño entre los diseños disponibles"
+
+#: inc/customizer/np-design-panel.php:105
+msgid "Archive Layouts"
+msgstr "Diseños del archivo"
+
+#: inc/customizer/np-design-panel.php:80 inc/customizer/np-design-panel.php:202
+#: inc/customizer/np-design-panel.php:259
+msgid "No Sidebar Center"
+msgstr "Sin barra lateral central"
+
+#: inc/customizer/np-design-panel.php:76 inc/customizer/np-design-panel.php:198
+#: inc/customizer/np-design-panel.php:255
+msgid "No Sidebar"
+msgstr "Sin barra lateral"
+
+#: inc/customizer/np-design-panel.php:72 inc/customizer/np-design-panel.php:194
+#: inc/customizer/np-design-panel.php:251
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer/np-design-panel.php:68 inc/customizer/np-design-panel.php:190
+#: inc/customizer/np-design-panel.php:247
+#: inc/widgets/np-widget-functions.php:39
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer/np-design-panel.php:64 inc/customizer/np-design-panel.php:186
+#: inc/customizer/np-design-panel.php:243
+msgid "Choose sidebar from available layouts"
+msgstr "Elige una barra lateral entre los diseños disponibles"
+
+#: inc/customizer/np-design-panel.php:63
+msgid "Archive Sidebars"
+msgstr "Ajustes de barra lateral"
+
+#: inc/customizer/np-design-panel.php:41
+msgid "Archive Settings"
+msgstr "Ajustes de archivo"
+
+#: inc/customizer/np-design-panel.php:28
+msgid "Design Settings"
+msgstr "Ajustes de diseño"
+
+#: inc/customizer/np-header-panel.php:65 inc/customizer/np-header-panel.php:94
+#: inc/customizer/np-header-panel.php:123
+#: inc/customizer/np-header-panel.php:193
+#: inc/customizer/np-header-panel.php:222
+#: inc/customizer/np-header-panel.php:264
+#: inc/customizer/np-design-panel.php:290
+#: inc/customizer/np-customizer-sanitize.php:65
+#: inc/customizer/np-footer-panel.php:66
+msgid "Hide"
+msgstr "Ocultar"
+
+#: inc/customizer/np-header-panel.php:64 inc/customizer/np-header-panel.php:93
+#: inc/customizer/np-header-panel.php:122
+#: inc/customizer/np-header-panel.php:192
+#: inc/customizer/np-header-panel.php:221
+#: inc/customizer/np-header-panel.php:263
+#: inc/customizer/np-design-panel.php:289
+#: inc/customizer/np-customizer-sanitize.php:64
+#: inc/customizer/np-footer-panel.php:65
+msgid "Show"
+msgstr "Mostrar"
+
+#: inc/customizer/np-customizer-sanitize.php:48
+#: inc/customizer/np-general-panel.php:120
+msgid "Boxed Layout"
+msgstr "Diseño en caja"
+
+#: inc/customizer/np-customizer-sanitize.php:47
+msgid "Fullwidth Layout"
+msgstr "Diseño de ancho completo"
+
+#: inc/customizer/np-custom-classes.php:295
+msgid "Close"
+msgstr "Cerrar"
+
+#: inc/customizer/np-custom-classes.php:294
+msgid "Delete"
+msgstr "Borrar"
+
+#: inc/customizer/np-custom-classes.php:23
+msgid "&mdash; Select Category &mdash;"
+msgstr "&mdash; Selecciona categoría &mdash;"
+
+#: inc/customizer/np-additional-panel.php:191
+msgid "Enable/Disable option for category color for widget title in block layout widget."
+msgstr "Activar/desactivar opción del color de la categoría para el título del widget en el widget de diseño de bloques."
+
+#: inc/customizer/np-additional-panel.php:190
+msgid "Category Color"
+msgstr "Color de la categoría"
+
+#: inc/customizer/np-header-panel.php:164
+#: inc/customizer/np-additional-panel.php:166
+#: inc/customizer/np-additional-panel.php:195
+msgid "Disable"
+msgstr "Desactivar"
+
+#: inc/customizer/np-header-panel.php:163
+#: inc/customizer/np-additional-panel.php:165
+#: inc/customizer/np-additional-panel.php:194
+msgid "Enable"
+msgstr "Activar"
+
+#: inc/customizer/np-additional-panel.php:162
+msgid "Enable/Disable option for category link for widget title in block layout widget."
+msgstr "Activar/desactivar opción para el enlace de categoría para el título del widget en el widget de diseño de bloques."
+
+#: inc/customizer/np-additional-panel.php:161
+msgid "Category Link"
+msgstr "Categoría de Enlace"
+
+#: inc/customizer/np-additional-panel.php:138
+msgid "Widget Settings"
+msgstr "Opciones del widget"
+
+#: inc/customizer/np-additional-panel.php:121
+msgid " %s"
+msgstr " %s"
+
+#: inc/customizer/np-additional-panel.php:96
+msgid "Categories Color"
+msgstr "Color de las categorías"
+
+#: inc/customizer/np-additional-panel.php:81
+msgid "Enter social media url."
+msgstr "Introducir URL de red social."
+
+#: inc/customizer/np-additional-panel.php:80
+msgid "Social Icon Url"
+msgstr "URL de icono de red social"
+
+#: inc/customizer/np-additional-panel.php:76
+msgid "Choose social media icon."
+msgstr "Elegir icono de redes sociales."
+
+#: inc/customizer/np-additional-panel.php:75
+msgid "Social Media Logo"
+msgstr "Logotipo de redes sociales"
+
+#: inc/customizer/np-additional-panel.php:70
+msgid "Add Icon"
+msgstr "Añadir icono"
+
+#: inc/customizer/np-additional-panel.php:69
+msgid "Social Media Icon"
+msgstr "Icono de redes sociales"
+
+#: inc/customizer/np-additional-panel.php:65
+msgid "Social Media Icons"
+msgstr "Iconos de redes sociales"
+
+#: inc/customizer/np-header-panel.php:118
+#: inc/customizer/np-additional-panel.php:38
+msgid "Social Icons"
+msgstr "Iconos Sociales"
+
+#: inc/customizer/np-additional-panel.php:25
+msgid "Additional Settings"
+msgstr "Ajustes adicionales"
+
+#: functions.php:57
+msgid "Footer Menu"
+msgstr "Menú del pie de página"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: functions.php:55
+msgid "Top Menu"
+msgstr "Menú superior"
+
+#: comments.php:90
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:56 comments.php:77
+msgid "Newer Comments"
+msgstr "Comentarios más recientes"
+
+#: comments.php:55 comments.php:76
+msgid "Older Comments"
+msgstr "Comentarios anteriores"
+
+#: comments.php:52 comments.php:73
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:42
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentario sobre «%2$s»"
+msgstr[1] "%1$s comentarios sobre «%2$s»"
+
+#. translators: 1: title.
+#: comments.php:36
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Un comentario sobre «%1$s»"
+
+#: 404.php:21
+msgid "error"
+msgstr "error"
+
+#: 404.php:21
+msgid "404"
+msgstr "404"
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "¡Vaya! No se puede encontrar esa página."
+
+#. Author URI of the theme
+msgid "https://mysterythemes.com"
+msgstr "https://mysterythemes.com"
+
+#. Author of the theme
+msgid "Mystery Themes"
+msgstr "Mystery Themes"
+
+#. Theme URI of the theme
+msgid "https://mysterythemes.com/wp-themes/news-portal"
+msgstr "https://mysterythemes.com/wp-themes/news-portal"

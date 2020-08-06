@@ -10,7 +10,7 @@
 <channel>
 	<title>Steve T Inc</title>
 	<atom:link href="https://stevetinc.ga/feed/" rel="self" type="application/rss+xml" />
-	<link>https://stevetinc.ga</link>
+	<link>https://stevetinc.ga/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Thu, 06 Aug 2020 12:22:46 +0000</lastBuildDate>
 	<language>en-US</language>
