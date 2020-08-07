@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Gadgets &#8211; Steve T Inc</title>
+	<atom:link href="https://stevetinc.ga/category/gadgets/feed/" rel="self" type="application/rss+xml" />
+	<link>https://stevetinc.ga</link>
+	<description>The Universe Of Technology</description>
+	<lastBuildDate>Fri, 07 Aug 2020 20:20:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+
+<image>
+	<url>https://stevetinc.ga/wp-content/uploads/2020/08/cropped-pinterest_profile_image-32x32.png</url>
+	<title>Gadgets &#8211; Steve T Inc</title>
+	<link>https://stevetinc.ga</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Should I use Free VPN</title>
+		<link>https://stevetinc.ga/2020/08/06/should-i-use-free-vpn/</link>
+					<comments>https://stevetinc.ga/2020/08/06/should-i-use-free-vpn/#respond</comments>
+		
+		<dc:creator><![CDATA[Tanaka Steve Masukume]]></dc:creator>
+		<pubDate>Thu, 06 Aug 2020 17:00:18 +0000</pubDate>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[MAC]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">https://stevetinc.ga/?p=214</guid>
+
+					<description><![CDATA[Using VPN is quite a popular thing in the world of today to get access to restricted content on the internet but the real question is it worth it and what are the dangers of using free VPN.oky lets start The term free just speaks for its self something thats not going to&#160; be reliable [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://stevetinc.ga/2020/08/06/should-i-use-free-vpn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>5 Most Dangerous hackers in The World</title>
+		<link>https://stevetinc.ga/2017/07/24/dangerous-hackers/</link>
+					<comments>https://stevetinc.ga/2017/07/24/dangerous-hackers/#respond</comments>
+		
+		<dc:creator><![CDATA[Tanaka Steve Masukume]]></dc:creator>
+		<pubDate>Mon, 24 Jul 2017 07:13:13 +0000</pubDate>
+				<category><![CDATA[Android]]></category>
+		<category><![CDATA[App-Development]]></category>
+		<category><![CDATA[Apple]]></category>
+		<category><![CDATA[Creation]]></category>
+		<category><![CDATA[Gadgets]]></category>
+		<category><![CDATA[MAC]]></category>
+		<category><![CDATA[Technology]]></category>
+		<category><![CDATA[Web-Design]]></category>
+		<category><![CDATA[Windows]]></category>
+		<guid isPermaLink="false">http://demo.mysterythemes.com/news-portal/?p=110</guid>
+
+					<description><![CDATA[1)Kevin Mitnick  .An original figure in American hacking, Kevin Mitnick got his beginning as a high schooler. In 1981, he was accused of taking PC manuals from Pacific Bell. In 1982, he]]></description>
+		
+					<wfw:commentRss>https://stevetinc.ga/2017/07/24/dangerous-hackers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
